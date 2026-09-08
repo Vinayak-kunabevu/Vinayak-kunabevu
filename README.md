@@ -1,30 +1,32 @@
 # Hi 👋, I'm Vinayak N Kunabevu
 
-### Information Science & Engineering Student | Software Developer | Problem Solver
+### 💻 Full-Stack Developer | Information Science & Engineering Student | Problem Solver
 
-🎓 B.E. Information Science & Engineering student at **RNS Institute of Technology**  
-📊 **CGPA: 8.89 / 10**  
-💻 Passionate about building software solutions and solving algorithmic problems.
+<p align="center">
+  <b>Build • Learn • Improve</b>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently pursuing **B.E. in Information Science & Engineering**
+🎓 B.E. Information Science & Engineering student at **RNS Institute of Technology**  
+📊 **CGPA: 8.89 / 10**  
+💻 Passionate about building scalable software solutions and solving algorithmic problems.
+
 - 💡 Strong foundation in **Data Structures & Algorithms**
 - 🧠 Knowledge of **Object-Oriented Programming**
 - 🗄️ Familiar with **Database Management Systems**
 - ⚙️ Knowledge of **Operating Systems**
 - 🌐 Understanding of **Computer Networks**
-- 💻 Experienced with **Python, C++, JavaScript, React.js, Node.js and Express.js**
-- 🛠️ Interested in **Full-Stack Development and Software Engineering**
-- 🚀 Passionate about learning new technologies and building scalable software solutions
+- 🚀 Interested in **Full-Stack Development**
+- 📚 Passionate about learning new technologies and solving challenging problems
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -34,7 +36,7 @@
 
 ### 🎨 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### ⚙️ Backend
 
@@ -45,6 +47,11 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -60,19 +67,17 @@
 
 ## 🎓 Education
 
-### RNS Institute of Technology
+### 🎓 RNS Institute of Technology
 **B.E. – Information Science & Engineering**  
-2023 – 2027  
+**2023 – 2027**  
 **CGPA: 8.89 / 10**
 
-### Sri Siddaganga PU College, Davanagere
-**12th PUE Karnataka**  
-2023  
+### 🏫 Sri Siddaganga PU College, Davanagere
+**12th PUE Karnataka — 2023**  
 **Percentage: 96.33%**
 
-### New Era Public School, Ranebennur
-**10th KSEEB**  
-2021  
+### 🏫 New Era Public School, Ranebennur
+**10th KSEEB — 2021**  
 **Percentage: 86%**
 
 ---
@@ -92,18 +97,35 @@ Completed certification covering:
 
 ## 🎯 Interests
 
-- 🏏 Playing Cricket
-- 🤼 Playing Kabaddi
+🏏 **Playing Cricket**  
+🤼 **Playing Kabaddi**
 
 ---
 
 ## 📫 Connect With Me
 
-- 💻 [GitHub](https://github.com/vinayaknkunabevu23is)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vinayak-kunabevu-367b4b304/)
-- 🧩 [LeetCode](https://leetcode.com/u/Og_Vinay/)
-- 📧 [Email](mailto:vinayaknkunabevu@gmail.com)
+<p align="left">
+  <a href="https://github.com/vinayaknkunabevu23is">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vinayak-kunabevu-367b4b304/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/Og_Vinay/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:vinayaknkunabevu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+<p align="center">
+  <i>"Consistent learning and problem solving lead to better solutions."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
+
