@@ -1,42 +1,54 @@
 # Hi 👋, I'm Vinayak N Kunabevu
 
-🎓 Information Science & Engineering Undergraduate at **RNS Institute of Technology**  
-💻 Passionate about **Software Development, Full-Stack Development, AI & Problem Solving**
+### Information Science & Engineering Student | Software Developer | Problem Solver
+
+🎓 B.E. Information Science & Engineering student at **RNS Institute of Technology**  
+📊 **CGPA: 8.89 / 10**  
+💻 Passionate about building software solutions and solving algorithmic problems.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing **B.E. in Information Science & Engineering**
-- 📊 CGPA: **8.89 / 10**
+- 🎓 Currently pursuing **B.E. in Information Science & Engineering**
 - 💡 Strong foundation in **Data Structures & Algorithms**
-- 🧠 Interested in **Artificial Intelligence and scalable software solutions**
-- 🌐 Currently working with **React.js, Node.js and Express.js**
-- 🗄️ Interested in Backend Development and Database Management
-- 🧩 Regularly practicing algorithmic problems
+- 🧠 Knowledge of **Object-Oriented Programming**
+- 🗄️ Familiar with **Database Management Systems**
+- ⚙️ Knowledge of **Operating Systems**
+- 🌐 Understanding of **Computer Networks**
+- 💻 Experienced with **Python, C++, JavaScript, React.js, Node.js and Express.js**
+- 🛠️ Interested in **Full-Stack Development and Software Engineering**
+- 🚀 Passionate about learning new technologies and building scalable software solutions
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Languages
-- Python
-- C++
-- JavaScript
-- HTML
-- CSS
+### 💻 Programming Languages
 
-### Frontend
-- React.js
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend
-- Node.js
-- Express.js
+### 🎨 Frontend
 
-### Database
-- PostgreSQL
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Core Computer Science
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 📚 Core Computer Science
+
 - Data Structures & Algorithms
 - Object-Oriented Programming
 - Database Management Systems
@@ -45,36 +57,22 @@
 
 ---
 
-## 🚀 Featured Project
+## 🎓 Education
 
-### 📚 AI-Powered College Digital Library System
+### RNS Institute of Technology
+**B.E. – Information Science & Engineering**  
+2023 – 2027  
+**CGPA: 8.89 / 10**
 
-A **web-based full-stack digital library system** designed for secure academic resource management.
+### Sri Siddaganga PU College, Davanagere
+**12th PUE Karnataka**  
+2023  
+**Percentage: 96.33%**
 
-### ✨ Features
-
-- 🔐 **Role-Based Authentication**
-  - Student
-  - Faculty
-  - Admin
-
-- 📂 **Academic Resource Management**
-  - Upload study materials
-  - Download resources
-  - Search academic content
-  - Manage digital resources
-
-- 🤖 **AI Chatbot**
-  - Helps users find academic resources quickly
-  - Provides an easier way to interact with the digital library
-
-- 🔎 **Efficient Search System**
-  - Makes academic content easier to discover
-  - Improves accessibility of digital resources
-
-### 💻 Technologies Used
-
-`Python` `React.js` `Node.js` `Express.js` `TypeScript` `PostgreSQL`
+### New Era Public School, Ranebennur
+**10th KSEEB**  
+2021  
+**Percentage: 86%**
 
 ---
 
@@ -84,49 +82,25 @@ A **web-based full-stack digital library system** designed for secure academic r
 
 Completed certification covering:
 
-- Searching algorithms
-- Sorting algorithms
+- Searching techniques
+- Sorting techniques
 - Indexing techniques
 - Python programming fundamentals
 
 ---
 
-## 🎯 Currently Learning
-
-- Advanced Data Structures & Algorithms
-- Full-Stack Web Development
-- Backend Development
-- REST APIs
-- Database Management
-- Artificial Intelligence
-
----
-
-## 🏏 Interests
+## 🎯 Interests
 
 - 🏏 Playing Cricket
 - 🤼 Playing Kabaddi
-- 💻 Coding & Problem Solving
-
----
-
-## 📊 GitHub Stats
-
-![Vinayak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinayaknkunabevu23is&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vinayaknkunabevu23is&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
-- 🧑‍💻 [GitHub](https://github.com/vinayaknkunabevu23is)
-- 🧠 [LeetCode](YOUR_LEETCODE_URL)
+- 💻 [GitHub](https://github.com/vinayaknkunabevu23is)
+- 🔗 [LinkedIn](YOUR_LINKEDIN_URL)
+- 🧩 [LeetCode](YOUR_LEETCODE_URL)
 - 📧 [Email](mailto:vinayaknkunabevu@gmail.com)
 
 ---
