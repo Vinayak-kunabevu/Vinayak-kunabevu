@@ -44,6 +44,7 @@
 ### 🗄️ Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -99,8 +100,8 @@ Completed certification covering:
 ## 📫 Connect With Me
 
 - 💻 [GitHub](https://github.com/vinayaknkunabevu23is)
-- 🔗 [LinkedIn](YOUR_LINKEDIN_URL)
-- 🧩 [LeetCode](YOUR_LEETCODE_URL)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vinayak-kunabevu-367b4b304/)
+- 🧩 [LeetCode](https://leetcode.com/u/Og_Vinay/)
 - 📧 [Email](mailto:vinayaknkunabevu@gmail.com)
 
 ---
