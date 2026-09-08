@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/vinayaknkunabevu23is">
+  <a href="https://github.com/vinayaknkunabevu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/vinayak-kunabevu-367b4b304/">
@@ -64,13 +64,13 @@
 <h3 align="center">🗄️ Database</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i="mysql" />
 </p>
 
 <h3 align="center">🔧 Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ---
@@ -98,15 +98,6 @@
 <p align="center">
   <a href="https://leetcode.com/u/Og_Vinay/">
     <img
-      src="https://leetcard.jacoblin.cool/Og_Vinay?theme=dark&font=Baloo_2&border=0&radius=20&animation=true"
-      alt="Vinayak's LeetCode Stats"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/Og_Vinay/">
-    <img
       src="https://leetcard.jacoblin.cool/Og_Vinay?theme=dark&ext=heatmap&border=0&radius=20"
       alt="Vinayak's LeetCode Activity"
     />
@@ -127,85 +118,24 @@
 </p>
 
 ---
-
-<!-- Education -->
-
-<h2 align="center">🎓 Education</h2>
-
-<p align="center">
-
-<b>RNS Institute of Technology</b><br>
-B.E. Information Science & Engineering<br>
-2023 – 2027 | CGPA: <b>8.89 / 10</b>
-
-<br><br>
-
-<b>Sri Siddaganga PU College, Davanagere</b><br>
-12th PUE Karnataka | 2023<br>
-Score: <b>96.33%</b>
-
-<br><br>
-
-<b>New Era Public School, Ranebennur</b><br>
-10th KSEEB | 2021<br>
-Score: <b>86%</b>
-
-</p>
-
----
-
-<!-- Certification -->
-
-<h2 align="center">🏆 Certification</h2>
-
-<p align="center">
-  <b>Algorithms for Searching, Sorting and Indexing</b><br>
-  Coursera
-</p>
-
-<p align="center">
-  🔎 Searching &nbsp; • &nbsp;
-  ⚡ Sorting &nbsp; • &nbsp;
-  📑 Indexing &nbsp; • &nbsp;
-  🐍 Python Fundamentals
-</p>
-
----
-
-<!-- Interests -->
-
-<h2 align="center">🏏 Interests</h2>
-
-<p align="center">
-  🏏 Playing Cricket &nbsp;&nbsp;&nbsp; 🏐 Playing Kabaddi
-</p>
-
----
-
 <!-- Connect -->
 
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
 
-<a href="https://github.com/vinayaknkunabevu23is">
-  <img src="https://img.shields.io/badge/GitHub-vinayaknkunabevu23is-181717?style=for-the-badge&logo=github" />
+<a href="https://github.com/vinayaknkunabevu">
+  <img src="https://img.shields.io/badge/GitHub-vinayaknkunabevu-181717?style=for-the-badge&logo=github" />
 </a>
-
 <br><br>
-
 <a href="https://www.linkedin.com/in/vinayak-kunabevu-367b4b304/">
   <img src="https://img.shields.io/badge/LinkedIn-Vinayak%20Kunabevu-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
-
 <br><br>
-
 <a href="https://leetcode.com/u/Og_Vinay/">
   <img src="https://img.shields.io/badge/LeetCode-Og__Vinay-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-
 <br><br>
-
 <a href="mailto:vinayaknkunabevu@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
